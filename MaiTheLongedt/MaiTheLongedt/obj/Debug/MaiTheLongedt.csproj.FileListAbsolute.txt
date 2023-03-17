@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\bin\Debug\MaiTheLongedt.exe.config
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\bin\Debug\MaiTheLongedt.exe
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\bin\Debug\MaiTheLongedt.pdb
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\obj\Debug\MaiTheLongedt.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\obj\Debug\MaiTheLongedt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\obj\Debug\MaiTheLongedt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\obj\Debug\MaiTheLongedt.exe
+C:\Users\Admin\source\repos\MaiTheLongedt\MaiTheLongedt\obj\Debug\MaiTheLongedt.pdb
